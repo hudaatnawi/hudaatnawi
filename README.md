@@ -1,97 +1,79 @@
-🌟 Huda Atnawi — Flutter Developer | C++ Programmer | IT Student
+# 🌟 Huda Atnawi — Flutter Developer | C++ Programmer | IT Student
 
-Hi! I'm Huda, an Information Technology student at the University of Damascus and a passionate Flutter developer who enjoys creating mobile applications that solve real problems. I also love solving complex challenges using C++, with strong experience in algorithms and clean code practices.
+Hi! I'm Huda, an Information Technology student at the University of Damascus and a passionate Flutter developer who enjoys creating mobile applications that solve real problems. I also love solving challenges using C++, with strong experience in clean code practices.
 
-🚀 Tech Stack
-Languages
+---
 
-Dart
+## 🚀 Tech Stack
 
-C++
+**Languages:**  
+- `Dart`  
+- `C++`  
 
-Frameworks & Tools
+**Frameworks & Tools:**  
+- `Flutter`  
+- Android Studio  
+- Git & GitHub  
+- RESTful APIs  
+- VS Code  
+- SDLC & Agile  
+- OOP  
 
-Flutter
+---
 
-Android Studio
+## 🧩 Featured Projects
 
-Git & GitHub
+### 🔹 Health&Care — Clinic Management Mobile App
+A clinic management mobile application for doctors and patients.  
+**Role:** Lead Developer  
+**Tech:** Flutter, Dart, REST APIs  
 
-RESTful APIs
+**Highlights:**  
+- 📅 Built appointment scheduling system  
+- 📄 Designed medical records  
+- 📝 Added article publishing section  
+- ⚡ Improved efficiency by digitizing clinic tasks  
 
-VS Code
+### 🔹 Tourly — Worldwide Trip Booking Platform
+A travel booking app for exploring trips and packages.  
+**Role:** Developer  
+**Tech:** Flutter, Dart, REST APIs  
 
-SDLC & Agile
+**Highlights:**  
+- 🔹 Implemented booking flow  
+- ⭐ Integrated rating & review system  
+- ⚡ Reduced destination search time by 60%  
 
-OOP
+### 🔹 C++ Problem-Solving Portfolio
+A collection of 50+ C++ solutions focusing on **clean, reusable code**.  
 
-🧩 Featured Projects
-🔹 Health&Care — Clinic Management System
+**Highlights:**  
+- ✨ Clean and reusable code  
+- 🧠 Strong use of algorithmic thinking  
+- ⚡ Demonstrates coding optimization skills  
 
-A clinic management application with separate dashboards for doctors and patients.
-Role: Lead developer
-Tech: Flutter, Dart, REST APIs
+---
 
-Highlights:
 
-Built appointment scheduling system
+## 🌱 Currently Learning
 
-Designed medical records
+- 📌 Advanced Flutter design patterns  
+- 🏗 Clean architecture  
+- 💻 C++ advanced algorithms  
 
-Added article publishing section
+---
 
-Improved efficiency by digitizing clinic tasks
+## 📬 Contact Me
 
-🔹 Tourly — Worldwide Trip Booking Platform
+- 📧 Email: [hudaatnawi141@gmail.com](mailto:hudaatnawi141@gmail.com)  
+- 📍 Location: Damascus, Syria  
+- 🌐 GitHub: [https://github.com/hudaatnawi](https://github.com/hudaatnawi)  
 
-A travel booking app with 100+ packages and advanced filtering.
-Role: Developer
-Tech: Flutter, Dart, Laravel APIs
+---
 
-Highlights:
+## ✨ About Me
 
-Implemented booking and payment flow
-
-Integrated rating & review system
-
-Reduced destination search time by 60%
-
-🔹 C++ Problem-Solving Portfolio
-
-A collection of 50+ optimized C++ solutions focusing on dynamic programming and memory management.
-
-Highlights:
-
-Clean, reusable code
-
-Strong use of algorithmic thinking
-
-Demonstrates optimization skills
-
-📈 GitHub Stats
-
-🌱 Currently Learning
-
-Advanced Flutter design patterns
-
-Clean architecture
-
-C++ advanced algorithms
-
-📬 Contact Me
-
-Email: hudaatnawi141@gmail.com
-
-Location: Damascus, Syria
-
-GitHub: https://github.com/hudaatnawi
-
-✨ About Me
-
-🎯 Quick learner
-
-⏱ Strong time-management
-
-🧠 Passionate about solving problems
-
-⌨️ Fast typer (50+ WPM)
+- 🎯 Quick learner  
+- ⏱ Strong time-management  
+- 🧠 Passionate about solving problems  
+- ⌨️ Fast typer (50+ WPM)
